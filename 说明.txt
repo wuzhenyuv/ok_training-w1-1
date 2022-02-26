@@ -1,0 +1,5 @@
+ropsten测试网用小狐狸钱包转账的交易hash为：0xf480c9d9e1366650a6f8f3dd081680ff2f56ceaadfbe387afe130eec8f4e2541
+
+Counter合约部署信息：
+      "address": "0xa1C287CfB93418AAF86492831254a0D29fCa04DA",
+      "transactionHash": "0x455db66704069611c1bdda6ce9d58c9f9284538bee7dad2d9d8ea5ac38d8dafe"
